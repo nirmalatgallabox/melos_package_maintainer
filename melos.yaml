@@ -1,0 +1,8 @@
+name: melos_package_maintainer
+
+packages:
+  - packages/**
+
+scripts:
+  analyze:
+    exec: dart analyze .
