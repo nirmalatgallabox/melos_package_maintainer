@@ -1,6 +1,6 @@
 name: hello_package
 description: "A new Flutter package project."
-version: 0.0.4
+version: 0.0.4+1
 publish_to: 'none'
 # homepage:
 
