@@ -15,6 +15,42 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`hello_package` - `v0.0.3`](#hello_package---v003)
+ - [`hello_package_example` - `v1.2.0`](#hello_package_example---v120)
+ - [`zen_package` - `v0.0.7`](#zen_package---v007)
+ - [`zen_package_example` - `v1.2.0`](#zen_package_example---v120)
+
+---
+
+#### `hello_package` - `v0.0.3`
+
+ - **FEAT**(zen_package): added new version.
+
+#### `hello_package_example` - `v1.2.0`
+
+ - **FEAT**(zen_package): added new version.
+
+#### `zen_package` - `v0.0.7`
+
+ - **FEAT**(zen_package): added new version.
+
+#### `zen_package_example` - `v1.2.0`
+
+ - **FEAT**(zen_package): added new version.
+
+
+## 2024-04-23
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`hello_package` - `v0.0.2`](#hello_package---v002)
  - [`hello_package_example` - `v1.1.0`](#hello_package_example---v110)
  - [`zen_package` - `v0.0.5`](#zen_package---v005)
