@@ -6,3 +6,6 @@ packages:
 scripts:
   analyze:
     exec: dart analyze .
+  
+  gitpush:
+    exec: git push --follow-tags
