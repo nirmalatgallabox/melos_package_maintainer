@@ -7,6 +7,6 @@ class HelloPackage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text('Hello Package');
+    return const Text('Hello Package v0.0.1');
   }
 }
