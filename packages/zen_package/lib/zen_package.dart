@@ -8,6 +8,6 @@ class ZenPackage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Text('Zen Package v0.0.2');
+    return const Text('Zen Package v0.0.3');
   }
 }
