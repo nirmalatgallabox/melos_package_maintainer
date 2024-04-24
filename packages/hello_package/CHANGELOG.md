@@ -1,3 +1,8 @@
+## 0.0.4+1
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+
 ## 0.0.4
 
  - **FEAT**(zen_package): version changes.

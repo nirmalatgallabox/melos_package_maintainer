@@ -3,6 +3,48 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## 2024-04-24
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`hello_package` - `v0.0.4+1`](#hello_package---v0041)
+ - [`hello_package_example` - `v0.0.1`](#hello_package_example---v001)
+ - [`zen_package` - `v0.0.8+1`](#zen_package---v0081)
+ - [`zen_package_example` - `v1.2.2`](#zen_package_example---v122)
+
+---
+
+#### `hello_package` - `v0.0.4+1`
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+
+#### `hello_package_example` - `v0.0.1`
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+ - **FEAT**(zen_package): version changes.
+ - **FEAT**(zen_package): added new version.
+ - **FEAT**(zen_package): version update.
+
+#### `zen_package` - `v0.0.8+1`
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+
+#### `zen_package_example` - `v1.2.2`
+
+ - **FIX**(zen_package): removed example.
+
+
 ## 2024-04-23
 
 ### Changes
