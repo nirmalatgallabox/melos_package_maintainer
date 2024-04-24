@@ -1,3 +1,11 @@
+## 0.8.2
+
+ - **FEAT**: style changes.
+
+## 0.8.1
+
+ - **FEAT**: version changes.
+
 ## 0.8.0
 
 > Note: This release has breaking changes.

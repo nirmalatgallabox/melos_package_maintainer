@@ -12,7 +12,7 @@ class ZenPackage extends StatelessWidget {
       'Zen Package v0.0.11',
       style: TextStyle(
         color: Colors.yellow,
-        fontSize: 16,
+        fontSize: 15,
       ),
     );
   }
