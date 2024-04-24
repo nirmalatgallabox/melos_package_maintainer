@@ -7,6 +7,9 @@ packages:
 scripts:
   analyze:
     exec: dart analyze .
+  
+  vsa:
+    exec: version -a
 
 
 command:
