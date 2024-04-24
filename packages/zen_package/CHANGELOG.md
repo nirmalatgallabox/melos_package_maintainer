@@ -1,3 +1,7 @@
+## 0.0.11
+
+ - **FEAT**: color changed.
+
 ## 0.0.10
 
  - **FEAT**(zen_package): versionb changes.
