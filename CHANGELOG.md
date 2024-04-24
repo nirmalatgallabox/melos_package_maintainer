@@ -11,6 +11,32 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
+ - [`hello_package` - `v0.0.7`](#hello_package---v007)
+ - [`zen_package` - `v0.2.1`](#zen_package---v021)
+
+---
+
+#### `hello_package` - `v0.0.7`
+
+ - **FEAT**(zen_package): style change.
+
+#### `zen_package` - `v0.2.1`
+
+ - **FEAT**(zen_package): style change.
+
+
+## 2024-04-24
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`zen_package` - `v0.2.0`](#zen_package---v020)
 
 Packages with other changes:
