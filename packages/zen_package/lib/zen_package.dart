@@ -10,7 +10,7 @@ class ZenPackage extends StatelessWidget {
   Widget build(BuildContext context) {
     return const Text(
       'Zen Package v0.0.11',
-      style: TextStyle(color: Colors.orange),
+      style: TextStyle(color: Colors.white),
     );
   }
 }
