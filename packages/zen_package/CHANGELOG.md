@@ -1,3 +1,10 @@
+## 0.3.0
+
+> Note: This release has breaking changes.
+
+ - **FEAT**(zen_package): style changes.
+ - **BREAKING** **FEAT**: style change.
+
 ## 0.2.1
 
  - **FEAT**(zen_package): style change.
