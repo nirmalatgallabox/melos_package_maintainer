@@ -1,3 +1,7 @@
+## 0.3.2
+
+ - **FEAT**: style changes.
+
 ## 0.3.1
 
  - **FEAT**: version changes.
