@@ -1,3 +1,8 @@
+## 0.0.5
+
+ - **FIX**(zen_package): new version updated.
+ - **FEAT**(zen_package): new version added.
+
 ## 0.0.4+1
 
  - **FIX**(zen_package): new version updated.
