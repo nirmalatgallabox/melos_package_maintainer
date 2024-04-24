@@ -1,3 +1,7 @@
+## 0.0.6
+
+ - **FEAT**(zen_package): style change (#2).
+
 ## 0.0.5+3
 
  - Update a dependency to the latest release.
