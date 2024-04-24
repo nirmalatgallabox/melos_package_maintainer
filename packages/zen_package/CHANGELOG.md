@@ -1,3 +1,9 @@
+## 0.1.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FEAT**(zen_package): color changed.
+
 ## 0.0.11
 
  - **FEAT**: color changed.
