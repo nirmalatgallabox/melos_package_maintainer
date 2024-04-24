@@ -1,7 +1,8 @@
 name: melos_package_maintainer
 
 packages:
-  - packages/**/
+  - packages/hello_package/
+  - packages/zen_package/
 
 scripts:
   analyze:
