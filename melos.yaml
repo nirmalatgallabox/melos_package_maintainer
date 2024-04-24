@@ -7,4 +7,12 @@ packages:
 scripts:
   analyze:
     exec: dart analyze .
-  
+
+
+command:
+  version:
+    branch: main # Only allows versioning to happen on the main branch
+    releaseUrl: true
+    # hooks:
+    #   precommit:
+
