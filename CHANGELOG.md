@@ -11,6 +11,33 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`zen_package` - `v0.5.0`](#zen_package---v050)
+
+Packages with other changes:
+
+ - [`hello_package` - `v0.1.0+1`](#hello_package---v0101)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `hello_package` - `v0.1.0+1`
+
+---
+
+#### `zen_package` - `v0.5.0`
+
+ - **BREAKING** **CHANGE**: size change.
+
+
+## 2024-04-24
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`hello_package` - `v0.1.0`](#hello_package---v010)
  - [`zen_package` - `v0.4.0`](#zen_package---v040)
 
