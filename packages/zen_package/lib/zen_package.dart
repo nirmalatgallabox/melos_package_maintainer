@@ -11,8 +11,8 @@ class ZenPackage extends StatelessWidget {
     return const Text(
       'Zen Package v0.0.11',
       style: TextStyle(
-        color: Colors.white,
-        fontSize: 12,
+        color: Colors.yellow,
+        fontSize: 13,
       ),
     );
   }
