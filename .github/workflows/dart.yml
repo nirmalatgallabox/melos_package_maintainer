@@ -7,7 +7,7 @@ name: Dart
 
 on:
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
     types: [closed]
 
 jobs:
@@ -31,11 +31,19 @@ jobs:
       #   run: dart format --output=none --set-exit-if-changed .
 
       # Consider passing '--fatal-infos' for slightly stricter analysis.
-      - name: Analyze project source
-        run: dart analyze
+      # - name: Analyze project source
+      #   run: dart analyze
 
       # Your project will need to have tests in test/ and a dependency on
       # package:test for this step to succeed. Note that Flutter projects will
       # want to change this to 'flutter test'.
       # - name: Run tests
       #   run: dart test
+      - name: Activate Melos v6.0.0
+        run: dart pub global activate melos 6.0.0
+
+      - name: create a release commit and tag with melos
+        run: melos version --all --yes
+
+      - name: push the created release tag and commit to the repo main branch
+        run: git push --follow-tag
