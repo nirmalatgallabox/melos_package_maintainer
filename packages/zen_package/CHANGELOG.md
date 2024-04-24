@@ -1,3 +1,9 @@
+## 0.8.0
+
+> Note: This release has breaking changes.
+
+ - **BREAKING** **FIX**: size changes.
+
 ## 0.7.0
 
 > Note: This release has breaking changes.
