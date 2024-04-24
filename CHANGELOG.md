@@ -15,6 +15,34 @@ Packages with breaking changes:
 
 Packages with other changes:
 
+ - [`zen_package` - `v0.0.10`](#zen_package---v0010)
+ - [`hello_package` - `v0.0.5+1`](#hello_package---v0051)
+
+Packages with dependency updates only:
+
+> Packages listed below depend on other packages in this workspace that have had changes. Their versions have been incremented to bump the minimum dependency versions of the packages they depend upon in this project.
+
+ - `hello_package` - `v0.0.5+1`
+
+---
+
+#### `zen_package` - `v0.0.10`
+
+ - **FEAT**(zen_package): versionb changes.
+
+
+## 2024-04-24
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
+ - There are no breaking changes in this release.
+
+Packages with other changes:
+
  - [`hello_package` - `v0.0.5`](#hello_package---v005)
  - [`zen_package` - `v0.0.9`](#zen_package---v009)
 
