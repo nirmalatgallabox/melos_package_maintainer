@@ -1,7 +1,7 @@
 name: melos_package_maintainer
 
 packages:
-  - packages/**
+  - packages/**/
 
 scripts:
   analyze:
