@@ -1,3 +1,22 @@
+## 0.4.0
+
+> Note: This release has breaking changes.
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+ - **FEAT**: style changes.
+ - **FEAT**: version changes.
+ - **FEAT**(zen_package): style changes.
+ - **FEAT**(zen_package): style change.
+ - **FEAT**(zen_package): style change (#2).
+ - **FEAT**(zen_package): new version added.
+ - **FEAT**(zen_package): version changes.
+ - **FEAT**(zen_package): added new version.
+ - **FEAT**(zen_package): version update.
+ - **BREAKING** **FEAT**: style size.
+ - **BREAKING** **FEAT**: color.
+ - **BREAKING** **CHANGE**: size change.
+
 ## 0.3.2
 
  - **FEAT**: style changes.
