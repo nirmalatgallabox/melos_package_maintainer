@@ -1,3 +1,31 @@
+## 0.11.0
+
+> Note: This release has breaking changes.
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+ - **FEAT**: style changes.
+ - **FEAT**: version changes.
+ - **FEAT**(zen_package): style changes.
+ - **FEAT**(zen_package): style change.
+ - **FEAT**(zen_package): style change (#2).
+ - **FEAT**: color changed.
+ - **FEAT**(zen_package): versionb changes.
+ - **FEAT**(zen_package): new version added.
+ - **FEAT**(zen_package): version changes.
+ - **FEAT**(zen_package): added new version.
+ - **FEAT**(zen_package): version update.
+ - **FEAT**(zen_package): version migration.
+ - **BREAKING** **FIX**: size changes.
+ - **BREAKING** **FEAT**: style changes (#11).
+ - **BREAKING** **FEAT**: style size.
+ - **BREAKING** **FEAT**: color.
+ - **BREAKING** **FEAT**: style change.
+ - **BREAKING** **FEAT**(zen_package): style changes (#3).
+ - **BREAKING** **FEAT**(zen_package): color changed.
+ - **BREAKING** **CHANGE**: size change.
+ - **BREAKING** **CHANGE**: size change.
+
 ## 0.10.0
 
 > Note: This release has breaking changes.
