@@ -25,9 +25,12 @@ jobs:
         run: dart pub get
 
       - name: Set up Git
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: |
           git config --global user.name "Package release bot"
           git config --global user.email "nirmalraj.s@gallabox.com"
+          git remote set-url origin https://x-access-token:${{ secrets.PAT_TOKEN }}@github.com/nirmalatgallabox/melos_package_maintainer.git
 
       # Uncomment this step to verify the use of 'dart format' on each commit.
       # - name: Verify formatting
