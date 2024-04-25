@@ -14,8 +14,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-        with:
-          github_token: ${{ secrets.PAT_TOKEN }}
+        # with:
+        #   github_token: ${{ secrets.PAT_TOKEN }}
 
       # Note: This workflow uses the latest stable version of the Dart SDK.
       # You can specify other versions if desired, see documentation here:
@@ -51,4 +51,6 @@ jobs:
         run: melos version --all --yes
 
       - name: push the created release tag and commit to the repo main branch
+        env:
+          github_token: ${{ secrets.PAT_TOKEN }}
         run: git push --follow-tag
