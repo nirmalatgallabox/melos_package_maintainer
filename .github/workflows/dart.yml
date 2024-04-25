@@ -52,5 +52,5 @@ jobs:
 
       - name: push the created release tag and commit to the repo main branch
         env:
-          github_token: ${{ secrets.PAT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PAT_TOKEN }}
         run: git push --follow-tag
