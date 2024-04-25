@@ -11,6 +11,66 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 Packages with breaking changes:
 
+ - [`hello_package` - `v0.5.0`](#hello_package---v050)
+ - [`zen_package` - `v0.10.0`](#zen_package---v0100)
+
+Packages with other changes:
+
+ - There are no other changes in this release.
+
+---
+
+#### `hello_package` - `v0.5.0`
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+ - **FEAT**: style changes.
+ - **FEAT**: version changes.
+ - **FEAT**(zen_package): style changes.
+ - **FEAT**(zen_package): style change.
+ - **FEAT**(zen_package): style change (#2).
+ - **FEAT**(zen_package): new version added.
+ - **FEAT**(zen_package): version changes.
+ - **FEAT**(zen_package): added new version.
+ - **FEAT**(zen_package): version update.
+ - **BREAKING** **FEAT**: style size.
+ - **BREAKING** **FEAT**: color.
+ - **BREAKING** **CHANGE**: size change.
+
+#### `zen_package` - `v0.10.0`
+
+ - **FIX**(zen_package): new version updated.
+ - **FIX**(zen_package): removed example.
+ - **FEAT**: style changes.
+ - **FEAT**: version changes.
+ - **FEAT**(zen_package): style changes.
+ - **FEAT**(zen_package): style change.
+ - **FEAT**(zen_package): style change (#2).
+ - **FEAT**: color changed.
+ - **FEAT**(zen_package): versionb changes.
+ - **FEAT**(zen_package): new version added.
+ - **FEAT**(zen_package): version changes.
+ - **FEAT**(zen_package): added new version.
+ - **FEAT**(zen_package): version update.
+ - **FEAT**(zen_package): version migration.
+ - **BREAKING** **FIX**: size changes.
+ - **BREAKING** **FEAT**: style size.
+ - **BREAKING** **FEAT**: color.
+ - **BREAKING** **FEAT**: style change.
+ - **BREAKING** **FEAT**(zen_package): style changes (#3).
+ - **BREAKING** **FEAT**(zen_package): color changed.
+ - **BREAKING** **CHANGE**: size change.
+ - **BREAKING** **CHANGE**: size change.
+
+
+## 2024-04-25
+
+### Changes
+
+---
+
+Packages with breaking changes:
+
  - [`hello_package` - `v0.4.0`](#hello_package---v040)
  - [`zen_package` - `v0.9.0`](#zen_package---v090)
 

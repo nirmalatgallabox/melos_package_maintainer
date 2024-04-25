@@ -1,6 +1,6 @@
 name: hello_package
 description: "A new Flutter package project."
-version: 0.4.0
+version: 0.5.0
 publish_to: 'none'
 # homepage:
 
@@ -11,7 +11,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  zen_package: 0.9.0
+  zen_package: 0.10.0
 
 dev_dependencies:
   flutter_test:
