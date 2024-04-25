@@ -47,6 +47,11 @@ jobs:
 
       - name: create a release commit and tag with melos
         run: melos version --all --yes
+      
+      - name: echoing log
+        env:
+          PAT_TOKEN: ${{ secrets.PAT_TOKEN }}
+        run: echo "https://nirmalatgallabox:$PAT_TOKEN@github.com/nirmalatgallabox/melos_package_maintainer.git"
 
       - name: push the created release tag and commit to the repo main branch
         env:
