@@ -8,11 +8,12 @@ class ZenPackage extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
+    
     return const Text(
-      'Zen Package v0.0.12',
+      'Zen Package v0.0.14',
       style: TextStyle(
         color: Colors.yellow,
-        fontSize: 16,
+        fontSize: 17,
       ),
     );
   }
